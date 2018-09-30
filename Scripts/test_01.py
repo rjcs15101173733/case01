@@ -4,3 +4,5 @@ class Test():
         print("已执行")
     def test02(self):
         print("已执行")
+    def test03(self):
+        print("已被执行")
